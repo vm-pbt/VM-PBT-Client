@@ -1,0 +1,18 @@
+# files that Git must ignore  
+
+# project binaries
+bin/
+tmp/
+
+# metadata
+.metadata
+local.properties
+.settings/
+.loadpath
+
+# Code Recommenders
+.recommenders/
+.recommenders
+
+# External tool builders
+.externalToolBuilders/
